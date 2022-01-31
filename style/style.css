@@ -1,0 +1,18 @@
+p {
+    color: red;
+}
+
+a {
+    color: blue;
+}
+
+ul li {
+    color: blue;
+}
+
+table {
+    border-width: 2px;
+    border-color: #FF0000;
+    border-radius: 10px;
+    color: rgb(184, 5, 5)
+}
